@@ -77,3 +77,24 @@ Este projeto teve como objetivo colocar em prática os conhecimentos de modelage
 - COUNT()
   
 Também foram trabalhados conceitos de relacionamentos entre tabelas, chaves primárias, chaves estrangeiras e agregação de dados.
+
+### Consulta 01 — Faturamento por Convênio
+![Resultado da Consulta 01](imagens/Captura%20de%20tela%202026-11-05%20110752.png)
+### Consulta 02 — Média do Valor de Consulta por Especialidade Médica
+![Resultado da Consulta 02](imagens/Captura%20de%20tela%202026-11-05%20111321.png)
+### Consulta 03 — Valor Médio das Diárias por Tipo de Quarto
+![Resultado da Consulta 03](imagens/Captura%20de%20tela%202026-11-05%20111346.png)
+### Consulta 04 — Total de Consultas Realizadas por Médico
+![Resultado da Consulta 04](imagens/Captura%20de%20tela%202026-11-05%20111842.png)
+### Consulta 05 — Soma de Diárias por Paciente com Sobrenome Silva
+![Resultado da Consulta 05](imagens/Captura%20de%20tela%202026-11-05%20111542.png)
+### Consulta 06 — Contagem de Prescrições por Status da Consulta
+![Resultado da Consulta 06](imagens/Captura%20de%20tela%202026-11-05%20111603.png)
+### Consulta 07 — Média de Valor de Consultas por Convênio e Especialidade
+![Resultado da Consulta 07](imagens/Captura%20de%20tela%202026-11-05%20111622.png)
+### Consulta 08 — Média de Diária de Internação por Convênio em Quartos de UTI
+![Resultado da Consulta 08](imagens/Captura%20de%20tela%202026-11-05%20111641.png)
+### Consulta 09 — Medicamentos Prescritos por Médico em Consultas Realizadas
+![Resultado da Consulta 09](imagens/Captura%20de%20tela%202026-11-05%20111723.png)
+### Consulta 10 — Valor Total e Média de Consultas por Paciente
+![Resultado da Consulta 10](imagens/Captura%20de%20tela%202026-11-05%20111742.png)
