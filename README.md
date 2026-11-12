@@ -12,8 +12,10 @@ Além da estruturação do banco de dados, foram desenvolvidas 10 consultas SQL 
 - MySQL — Sistema de gerenciamento de banco de dados.
 - MySQL Workbench — Ambiente utilizado para criação, execução e gerenciamento do banco.
 - SQL — Linguagem utilizada para criação das tabelas e realização das consultas.
+
+---
   
-##🗄️ Estrutura do Banco de Dados
+## 🗄️ Estrutura do Banco de Dados
 O banco de dados utilizado no projeto foi denominado hospital_db e possui 6 tabelas principais:
 Tabela	Descrição
 pacientes	Armazena os dados dos pacientes e seus convênios.
@@ -22,7 +24,6 @@ quartos	Contém informações sobre os quartos hospitalares.
 internacoes	Registra as internações, datas e valores das diárias.
 consultas	Armazena os registros de consultas médicas.
 prescricoes	Registra os medicamentos e suas respectivas dosagens.
-
 
 As tabelas estão relacionadas por meio de chaves primárias e estrangeiras, garantindo a integridade dos dados e permitindo a realização de consultas utilizando relacionamentos (JOIN).
 
@@ -40,7 +41,9 @@ Foram elaboradas 10 consultas para atender às situações-problema propostas na
 - Média de Diária de Internação por Convênio em Quartos de UTI — Calcula a média das diárias de pacientes internados em quartos de UTI, agrupada por convênio.
 - Medicamentos Prescritos por Médico em Consultas Realizadas — Conta os registros de prescrições associados a cada médico.
 - Valor Total e Média de Consultas por Paciente — Calcula o valor total e a média das consultas por paciente.
-    
+
+---
+
 ## 🖼️ Resultados das Consultas
 Abaixo estão alguns registros dos resultados obtidos durante a execução das consultas no MySQL Workbench.
 Consulta 01 — Faturamento por Convênio
@@ -63,12 +66,16 @@ Consulta 09 — Prescrições por Médico
 
 Consulta 10 — Total e Média por Paciente
 
+---
+
 ## ▶️ Como executar o projeto
 1. Faça o download ou clone este repositório.
 2. Abra o MySQL Workbench.
 3. Abra o arquivo SQL disponibilizado neste repositório.
 4. Execute o script para criar o banco de dados, as tabelas e inserir os registros.
 5. Execute as consultas SQL para visualizar os resultados.
+
+---
    
 ## 🎯 Objetivo do Projeto
 Este projeto teve como objetivo colocar em prática os conhecimentos de modelagem e manipulação de bancos de dados relacionais, utilizando comandos SQL como:
@@ -84,6 +91,8 @@ Este projeto teve como objetivo colocar em prática os conhecimentos de modelage
 - COUNT()
   
 Também foram trabalhados conceitos de relacionamentos entre tabelas, chaves primárias, chaves estrangeiras e agregação de dados.
+
+---
 
 ### Consulta 01 — Faturamento por Convênio
 ![Resultado da Consulta 01](imagens/Captura%20de%20tela%202026-11-05%20110752.png)
